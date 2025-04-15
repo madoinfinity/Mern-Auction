@@ -1,0 +1,30 @@
+/* signup.css */
+
+.col-8 {
+    padding: 5rem;
+    background-color: #343a40; /* dark background color */
+  }
+  
+  .col-4 {
+    padding-top: 5rem;
+    background-color: #000; /* black background color */
+    color: #fff; /* white text color */
+    text-align: center;
+  }
+  
+  .form-control {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  
+  .btn-outline-light {
+    width: 100%;
+    margin-top: 1rem;
+    padding: 0.5rem 0;
+  }
+  
+  .btn-outline-light:hover {
+    color: #000; /* Change text color on hover */
+    background-color: #fff; /* Change background color on hover */
+  }
+  
